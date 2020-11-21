@@ -27,6 +27,11 @@ body {
     font-style: bold;
 }
 
+.btn-primary {
+    background-color: orange !important;
+
+}
+
 /*  Nav Bar */
 #brand {
     color: orange;
