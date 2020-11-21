@@ -89,6 +89,17 @@ h1 {
     box-shadow: 10px 10px orange;
 }
 
+/* Portfolio*/
+img{
+    height: 350px;
+    width: 300px;
+}
+
+.card:hover{
+    border: solid 4px orange;
+ 
+}
+
 
 /*Contact Styles*/
 .form-container {
