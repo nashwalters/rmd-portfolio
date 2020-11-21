@@ -8,23 +8,34 @@ body {
     flex-direction: column;
 }
 
+h1 {
+    color:blue
+}
+
 .jumbotron {
-    height: 40vh;
-    background-image: url();
+    height: 50vh;
+    background-image: url("../img/jumbotron.jpg");
     background-position: center;
     background-size:cover;
     border-bottom: solid 6px orange;
 }
 
-/*.vertical-center {
+.vertical-center {
     height:100%;
     width:100%;
     text-align: center;
-}*/
+}
 
-.jumbotron h1 p {
-    font-size: 2.25em;
-    font-style: bold;
+.jumbotron h2 {
+    font-size: 2em !important;
+    font-weight: 500 !important;
+    color:orange;
+;
+}
+
+.btn-primary {
+    background-color: orange !important;
+
 }
 
 /*  Nav Bar */
@@ -63,21 +74,28 @@ body {
       text-align: center;
   }
 
-  /*About Styles*/
-
-#about {
+  /*Style used for section backgrounds*/
+#bg-color {
     background-color: white;
     border-radius: 10px;
     padding: 30px;
-    margin-bottom: 60px;
-  
+    margin-bottom: 80px;
 }
 
-/*Contact Styles*/
-.form-container {
-    background-color: white;
-    padding: 30px;
-    border-radius: 10px;
-    margin-top: auto;
-    margin-bottom: 60px;
+.img-me {
+    height: 350px;
+    width: 300px;
+    border: solid 4px orange;
+    box-shadow: 10px 10px orange;
+}
+
+/* Portfolio Styles*/
+img{
+    height: 350px;
+    width: 300px;
+}
+
+.card:hover{
+    border: solid 4px orange;
+ 
 }
