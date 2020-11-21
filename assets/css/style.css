@@ -9,7 +9,7 @@ body {
 }
 
 .jumbotron {
-    height: 40vh;
+    height: 60vh;
     background-image: url();
     background-position: center;
     background-size:cover;
@@ -69,14 +69,20 @@ body {
   }
 
   /*About Styles*/
-
 #about {
     background-color: white;
     border-radius: 10px;
     padding: 30px;
-    margin-bottom: 60px;
-  
+    margin-bottom: 80px;
 }
+
+.img-me {
+    height: 300px;
+    width: 300px;
+    border: solid 4px orange;
+    box-shadow: 10px 10px orange;
+}
+
 
 /*Contact Styles*/
 .form-container {
