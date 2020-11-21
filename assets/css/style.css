@@ -1,5 +1,6 @@
 /* General Styles */
 body {
+    background-image:url(../img/background.jpg);
     position: relative;
     min-height: 100%;
     max-width: 100%;
