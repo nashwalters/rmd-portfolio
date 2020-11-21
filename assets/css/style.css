@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-    color: orange
+    color:blue
 }
 
 .jumbotron {
@@ -27,9 +27,9 @@ h1 {
 }
 
 .jumbotron h2 {
-    font-size: 2.25em !important;
-    font-weight: 700 !important;
-    color: orange;
+    font-size: 2em !important;
+    font-weight: 500 !important;
+    color:orange;
 ;
 }
 
@@ -104,8 +104,8 @@ img{
 /*Contact Styles*/
 .form-container {
     background-color: white;
-    padding: 30px;
+    padding: 10px;
     border-radius: 10px;
-    margin-top: auto;
-    margin-bottom: 60px;
+   /* margin-top: auto;*/
+    margin-bottom: 80px;
 }
