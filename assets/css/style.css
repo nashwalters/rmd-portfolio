@@ -8,6 +8,24 @@ body {
     flex-direction: column;
 }
 
+.jumbotron {
+    height: 40vh;
+    background-image: url();
+    background-position: center;
+    background-size:cover;
+    border-bottom: solid 6px orange;
+}
+
+/*.vertical-center {
+    height:100%;
+    width:100%;
+    text-align: center;
+}*/
+
+.jumbotron h1 p {
+    font-size: 2.25em;
+    font-style: bold;
+}
 
 /*  Nav Bar */
 #brand {
