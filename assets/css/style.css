@@ -72,3 +72,12 @@ body {
     margin-bottom: 60px;
   
 }
+
+/*Contact Styles*/
+.form-container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: auto;
+    margin-bottom: 60px;
+}
