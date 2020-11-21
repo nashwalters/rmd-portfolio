@@ -62,3 +62,13 @@ body {
       color: white !important;
       text-align: center;
   }
+
+  /*About Styles*/
+
+#about {
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 60px;
+  
+}
