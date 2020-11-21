@@ -1,0 +1,20 @@
+/*  Nav Bar */
+#brand {
+    color: orange;
+    font-size: 2.2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.bg-light {
+    background-color: #0b327a !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+    color: orange !important;
+}
+
