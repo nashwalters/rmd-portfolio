@@ -16,7 +16,7 @@ It is evident that as technological advances are made, screen sizes seem to get 
 
 ## Technology
 
-There are may tools/ frameworks that can be used to make responsive websites. The frame I used is Bootstrap v4.5.3.
+There are many tools/ frameworks that can be used to make responsive websites. The frame I used is Bootstrap v4.5.3.
 <details>
   <summary>What is Bootstrap?</summary>
   <p>Bootstrap is an open-source toolkit that is used to make responsive mobile-first sites. It saves you from writing a lot of CSS codes and it is free, which is a great bonus.</p>
