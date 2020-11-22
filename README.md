@@ -40,7 +40,7 @@ A web browser is need to view page.
 
 * Github page: [https://nashwalters.github.io/rmd-portfolio/](https://nashwalters.github.io/rmd-portfolio/)
 
-* To open in a new window, copy and paste: http://<span></span>https://nashwalters.github.io/rmd-portfolio/.
+* To open in a new window, copy and paste: http://<span></span>nashwalters.github.io/rmd-portfolio/.
 
 ## Screenshots
 <details>
