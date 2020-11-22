@@ -43,6 +43,7 @@ A web browser is need to view page.
 ## Screenshots
 <details>
   <summary>Website at 922px</summary>
+  <img src="assets/img/screencapture-922px.png" alt= "screenshot of site at 922 px">
 </details>
 <details>
   <summary>Website at 768px</summary>
