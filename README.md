@@ -8,7 +8,7 @@ This project is a responsive designed portfolio using Bootstrap's grid system an
 * [Installation](#installation)
 * [Screenshots](#screenshots)
 * [Credits](#credits)
-* [Licence](#licence)
+* [License](#license)
 
 ## General Information
 
@@ -31,6 +31,8 @@ There are may tools/ frameworks that can be used to make responsive websites. Th
   <p> You can downnload Bootstrap from the website. You can also include Bootstrap from a CDN and placing the link in the head tag of your HTML. The JQuery plugins are added to the body tag. Don't just take my word for it, visit <a href= "https://getbootstrap.com/">Bootstrap.com</a> to see for yourself and to get started.
   </p>
 </details>
+
+I also used the HTML Validation Serice [W#C Validation Markup Service](https://validator.w3.org/#validate_by_upload+with_options)
 
 ## Installation
 
@@ -59,6 +61,6 @@ A web browser is need to view page.
 * Carleton University Coding Bootcamp team- Special thanks to Central Grader Heather S.
 * [Adam Simonini](https://github.com/adamsimonini)
 
-## Licence   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Copyright © 2020 Nash Walters
