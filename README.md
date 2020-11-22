@@ -38,7 +38,7 @@ I also used the HTML Validation Serice [W#C Validation Markup Service](https://v
 
 A web browser is need to view page.
 
-* Github page: [](https://nashwalters.github.io/rmd-portfolio/)
+* Github page: [Portfolio](https://nashwalters.github.io/rmd-portfolio/)
 
 * To open in a new window, copy and paste: http://<span></span>https://nashwalters.github.io/rmd-portfolio/
 
