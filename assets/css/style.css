@@ -9,7 +9,10 @@ body {
 }
 
 h1 {
-    color:blue
+    color: orange;
+    font-size: 3em;
+    font-weight: 900 !important;
+    margin-top: 50px;
 }
 
 /*  Jumbotron Styles*/
@@ -30,7 +33,11 @@ h1 {
 .jumbotron h2 {
     font-size: 2em !important;
     font-weight: 500 !important;
-    color:orange;
+    color: orange;
+}
+
+hr.style {
+    border: solid 6px blue;
 }
 
 /*  button  Styles*/
