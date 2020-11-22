@@ -12,7 +12,7 @@ This project is a responsive designed portfolio using Bootstrap's grid system an
 
 ## General Information
 
-It is evident that as technological advances are made, screen sizes seem to get smaller. Now more than ever a lot of people are using mobile devices, especially their cellphones to access information. It is estimated that so far in 2020, mobile devices generated 50.81 percent of global website traffic. As a result, responsive web designs and mobile-first designs play an important role in making information small screen friendly. These designs not only increase traffic to a website from mobile users it also improves SEO efforts and provides a seamless user experience.
+It is evident that as technological advances are made, screen sizes seem to get smaller. Now more than ever a lot of people are using mobile devices, especially their cellphones to access information. It is estimated that so far in 2020, mobile devices generated 50.81 percent of global website traffic. As a result, responsive web designs and mobile-first designs play an important role in making information small screen friendly. These designs not only increase traffic to a website from mobile users, it also improves SEO efforts and provides a seamless user experience.
 
 ## Technology
 
