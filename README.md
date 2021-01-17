@@ -40,9 +40,14 @@ A web browser is need to view page.
 
 * Github page: [https://nashwalters.github.io/rmd-portfolio/](https://nashwalters.github.io/rmd-portfolio/)
 
-* To open in a new window, copy and paste: http://<span></span>nashwalters.github.io/rmd-portfolio/.
+* To open in a new window, copy and paste: http://<span></span>nashwalters.github.io/rmd-portfolio/
 
 ## Screenshots
+<p align="center"> 
+<img src="assets/img/firstp.png" alt= "screenshot of my portfolio" width= "500px">
+</p>
+
+Click on the arrow to dropdown images at various screen sizes.
 <details>
   <summary>Website at 922px</summary>
   <img src="assets/img/screencapture-922px.png" alt= "screenshot of site at 922px">
