@@ -47,7 +47,8 @@ A web browser is need to view page.
 <img src="assets/img/firstp.png" alt= "screenshot of my portfolio" width= "500px">
 </p>
 
-Click on the arrow to dropdown images at various screen sizes.
+#### Click on the arrow to dropdown images at various screen sizes.
+
 <details>
   <summary>Website at 922px</summary>
   <img src="assets/img/screencapture-922px.png" alt= "screenshot of site at 922px">
